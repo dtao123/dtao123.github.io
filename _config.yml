@@ -37,6 +37,17 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
+# Navigation Menu
+navigation:
+  - title: "Teaching"
+    url: "/teaching"
+  - title: "Research"
+    url: "/research"
+  - title: "Blogs"
+    url: "/blogs"
+  - title: "Photos"
+    url: "/photos"
+
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 google_analytics: UA-111540567-4
