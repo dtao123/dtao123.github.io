@@ -4,7 +4,7 @@ main:
     authors: <strong>Dandan Tao</strong>, Dongyu Zhang, Ruofan Hu, Elke Rundensteiner, and Hao Feng<sup>*</sup>
     conference_short: 2023
     conference: Foods, <strong>2023</strong>, 12(14), 2769.
-    pdf: 
+    pdf: https://www.mdpi.com/2304-8158/12/14/2769
     image: /assets/img/journals/foods-logo.png
     notes: Published
 
@@ -12,7 +12,7 @@ main:
     authors: <strong>Dandan Tao</strong>, Dongyu Zhang, Ruofan Hu, Elke Rundensteiner, and Hao Feng<sup>*</sup>
     conference_short: 2023
     conference: Foods, <strong>2023</strong>, 12(20), 3825.
-    pdf: 
+    pdf: https://www.mdpi.com/2304-8158/12/20/3825
     image: /assets/img/journals/foods-logo.png
     notes: Published
 
@@ -20,6 +20,22 @@ main:
     authors: <strong>Dandan Tao</strong>, Pengkun Yang, and Hao Feng<sup>*</sup>
     conference_short: 2020
     conference: Comprehensive Reviews in Food Science and Food Safety, <strong>2020</strong>, 19(2), 875-894.
-    pdf: 
+    pdf: https://ift.onlinelibrary.wiley.com/doi/abs/10.1111/1541-4337.12540
     image: /assets/img/journals/crfsfs-logo.jpg
+    notes: Published
+
+  - title: "Kinetics of “Laba” garlic greening and its physiochemical properties treated by Dense Phase Carbon Dioxide"
+    authors: <strong>Dandan Tao</strong>, Pengkun Yang, and Hao Feng<sup>*</sup>
+    conference_short: 2015
+    conference: LWT - Food Science and Technology, <strong>2015</strong>, 64(1), 1-7.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0023643815004752
+    image: 
+    notes: Published
+
+  - title: "'Laba' garlic processed by dense phase carbon dioxide: the relation between green colour generation and cellular structure, alliin consumption and alliinase activity"
+    authors: <strong>Dandan Tao</strong>, Pengkun Yang, and Hao Feng<sup>*</sup>
+    conference_short: 2015
+    conference: Journal of the Science of Food and Agriculture, <strong>2015</strong>, 96(5), 1731-1739.
+    pdf: https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.7463
+    image: 
     notes: Published
