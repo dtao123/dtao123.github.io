@@ -37,6 +37,13 @@ Dandan Tao is a researcher in food systems engineering, food safety informatics,
     <img src="/assets/img/projects/kewei-2.png" alt="Kewei Project 2" style="width: 48%; height: auto; border-radius: 6px;">
   </div>
 
+- **Technical Specifications for Bulk Transport of Liquid Food**
+
+  <div style="display: flex; gap: 16px; margin-top: 12px;">
+    <img src="/assets/img/projects/gb-1.png" alt="GB Project 1" style="width: 48%; height: auto; border-radius: 6px;">
+    <img src="/assets/img/projects/gb-2.png" alt="GB Project 2" style="width: 48%; height: auto; border-radius: 6px;">
+  </div>
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
