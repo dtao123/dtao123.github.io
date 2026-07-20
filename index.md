@@ -30,6 +30,13 @@ Dandan Tao is a researcher in food systems engineering, food safety informatics,
     <img src="/assets/img/projects/fact-2.jpg" alt="FACT Project 2" style="width: 48%; height: auto; border-radius: 6px;">
   </div>
 
+- **Construction of a Smart Supervision System and Prevention and Control of Food Safety Risks for Traditional Capital Food Brands**
+
+  <div style="display: flex; gap: 16px; margin-top: 12px;">
+    <img src="/assets/img/projects/kewei-1.png" alt="Kewei Project 1" style="width: 48%; height: auto; border-radius: 6px;">
+    <img src="/assets/img/projects/kewei-2.png" alt="Kewei Project 2" style="width: 48%; height: auto; border-radius: 6px;">
+  </div>
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
