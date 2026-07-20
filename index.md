@@ -4,19 +4,31 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Dandan Tao is a researcher in food systems engineering, food safety informatics, and AI-driven risk governance. She focuses on integrating big data analytics, natural language processing, knowledge graphs, and machine learning approaches to develop intelligent solutions for food safety surveillance, regulatory decision support, and supply chain risk management. Her research bridges food science, artificial intelligence, and public health.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Food Safety Informatics:** risk identification, regulatory decision support, intelligent surveillance
+- **Artificial Intelligence:** natural language processing, machine learning, knowledge graphs
+- **Big Data Analytics:** text mining, social media analytics, large-scale data fusion
+- **Food Systems Engineering:** supply chain risk management, intelligent regulatory systems
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **University of Illinois Urbana-Champaign (UIUC)** — Ph.D. (2021)
+
+- **China Agricultural University** — M.S. (2016)
+
+- **China Agricultural University** — B.S. (2013)
+
+## Selected Projects
+
+- **Innovative Big Data Analytics Technology For Microbiological Risk Mitigation Assuring Fresh Produce Safety**
+
+  <div style="display: flex; gap: 16px; margin-top: 12px;">
+    <img src="/assets/img/projects/fact-1.png" alt="FACT Project 1" style="width: 48%; height: auto; border-radius: 6px;">
+    <img src="/assets/img/projects/fact-2.jpg" alt="FACT Project 2" style="width: 48%; height: auto; border-radius: 6px;">
+  </div>
 
 {% include_relative _includes/publications.md %}
 
