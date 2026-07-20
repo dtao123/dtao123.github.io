@@ -53,7 +53,7 @@ Dandan Tao is a researcher in food systems engineering, food safety informatics,
 The research projects are supported by the following funding agencies:
 
 <div style="display: flex; gap: 24px; margin-top: 12px; align-items: center; flex-wrap: wrap;">
-  <img src="/assets/img/projects/USDA-NIFA.jpeg" alt="USDA-NIFA" style="height: 80px; width: auto; object-fit: contain;">
+  <img src="/assets/img/projects/USDA-NIFA.jpg" alt="USDA-NIFA" style="height: 80px; width: auto; object-fit: contain;">
   <img src="/assets/img/projects/BMSTC.png" alt="BMSTC" style="height: 80px; width: auto; object-fit: contain;">
   <img src="/assets/img/projects/SMAR.jpeg" alt="SMAR" style="height: 80px; width: auto; object-fit: contain;">
 </div>
