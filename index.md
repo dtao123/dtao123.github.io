@@ -39,9 +39,9 @@ Dandan Tao is a researcher in food systems engineering, food safety informatics,
 
 - **Technical Specifications for Bulk Transport of Liquid Food**
 
-  <div style="display: flex; gap: 16px; margin-top: 12px;">
-    <img src="/assets/img/projects/gb-1.png" alt="GB Project 1" style="width: 48%; height: auto; border-radius: 6px;">
-    <img src="/assets/img/projects/gb-2.png" alt="GB Project 2" style="width: 48%; height: auto; border-radius: 6px;">
+  <div style="display: flex; gap: 16px; margin-top: 12px; align-items: flex-start;">
+    <img src="/assets/img/projects/gb-1.png" alt="GB Project 1" style="width: 48%; border-radius: 6px; object-fit: contain;">
+    <img src="/assets/img/projects/gb-2.png" alt="GB Project 2" style="width: 48%; border-radius: 6px; object-fit: contain;">
   </div>
 
 {% include_relative _includes/publications.md %}
