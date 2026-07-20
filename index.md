@@ -44,6 +44,10 @@ Dandan Tao is a researcher in food systems engineering, food safety informatics,
     <img src="/assets/img/projects/gb-2.png" alt="GB Project 2" style="width: 48%; border-radius: 6px; object-fit: contain;">
   </div>
 
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
+
 ## Acknowledgments
 
 The research projects are supported by the following funding agencies:
@@ -53,7 +57,3 @@ The research projects are supported by the following funding agencies:
   <img src="/assets/img/projects/BMSTC.png" alt="BMSTC" style="height: 80px; width: auto; object-fit: contain;">
   <img src="/assets/img/projects/SMAR.jpeg" alt="SMAR" style="height: 80px; width: auto; object-fit: contain;">
 </div>
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
